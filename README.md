@@ -1,8 +1,8 @@
 -  Salute, Ton White here. I am a Junior FrontEnd developer.
 -  This readme won't have any emojis, because <blockqoute>The world ain’t all sunshine and rainbows.</blockqoute>
--  I’m currently learning HTML/CSS, but mostly JavaScript
--  If you want to propose me a job, it's a right thing to do.
--  You can contact me here on GitHub.
+-  I’m currently learning FrontEnd develompment and React framework.
+-  If you are an HR - EMPLOY ME.
+-  You can contact me on GitHub.
 
 <!---
 Konichiwa, Samurai!
