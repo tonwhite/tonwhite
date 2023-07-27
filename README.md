@@ -10,5 +10,10 @@ Konichiwa, Samurai!
 
 Some of my simple prjects:
 
+{
+
 [Weather Widget](https://tonwhite.github.io/weather-widget/)
+
 [Currency Converter](https://tonwhite.github.io/currency-converter/)
+
+}
