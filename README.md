@@ -1,19 +1,18 @@
--  Salute, Ton White here. I am a Junior FrontEnd developer.
--  This readme won't have any emojis, because <blockqoute>The world ain’t all sunshine and rainbows.</blockqoute>
--  I’m currently learning FrontEnd develompment and React framework.
+-  Salute, Anton here. I am a developer.
+-  I am a stoic man, eager learner and always in a constant self-improvement loop.
 -  If you are an HR - EMPLOY ME.
--  You can contact me on GitHub.
+-  You can contact me via Telegram or give me a call.
 
 <!---
 Konichiwa, Samurai!
 --->
 
-Some of my simple prjects:
+Some of my simple projects (a LOT more will be soon uploaded to GitHub):
 
-{
+const myProjects = {
 
-[Weather Widget](https://tonwhite.github.io/weather-widget/)
+[Weather Widget](https://tonwhite.github.io/weather-widget/),
 
-[Currency Converter](https://tonwhite.github.io/currency-converter/)
+[Currency Converter](https://tonwhite.github.io/currency-converter/),
 
 }
