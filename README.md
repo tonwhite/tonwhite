@@ -7,7 +7,7 @@
 Konichiwa, Samurai!
 --->
 
-Some of my simple projects (a LOT more will be soon uploaded to GitHub):
+Way more projects and my 3D portfolio soon will be soon uploaded to GitHub.
 
 const myProjects = {
 
