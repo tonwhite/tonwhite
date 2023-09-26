@@ -1,6 +1,6 @@
 -  Salute, Anton here. I am a developer.
 -  I am a stoic man, eager learner and always in a constant self-improvement loop.
--  If you are an HR - EMPLOY ME.
+-  If you are an HR - do not hesitate to employ me.
 -  You can contact me via Telegram or give me a call.
 
 <!---
