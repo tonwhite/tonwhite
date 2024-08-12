@@ -1,7 +1,7 @@
--  Salute, Anton here. I am a developer.
--  I am a stoic man, eager learner and always in a constant self-improvement loop.
--  If you are an HR - do not hesitate to employ me.
--  You can contact me via Telegram or give me a call.
+-  Salute, me here. I am a amateur dev.
+-  I am a lazy, but laziness is cultivating progress.
+-  If you are an HR - do not hesitate to contact.
+-  You can contact me via Telegram.
 
 <!---
 Konichiwa, Samurai!
